@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# Perform necessary riak removal steps
+# after package is uninstalled.
+#
+
+echo "riak has been uninstalled!"
+
+exit 0
